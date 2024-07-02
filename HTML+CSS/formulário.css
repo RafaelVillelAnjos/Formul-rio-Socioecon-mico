@@ -1,0 +1,240 @@
+body{
+    font-family: "Merriweather", serif;
+}
+
+.tudo{
+    border: solid 2px;
+    border-radius: 10px;
+    width: 60%;
+    text-align: center;
+    text-justify: center;
+    margin: auto;
+    margin-top: 1.5%;
+    background-color: #80c4ff;
+}
+
+.Oq{
+    width: 55%;
+    text-align: center;
+    text-justify: center;
+    margin: auto;
+    font-size: 250%;
+    margin-top: 2%;
+}
+
+.IBGE{
+    width: 23%;
+    text-align: center;
+    margin: auto;
+    font-size: 100%; 
+    margin-bottom: 2.5%;
+    margin-top: -0.5%;
+}
+
+input{
+    border: solid #0424D9 2px;
+    width: auto;
+    height: 25px;
+    border-radius: 5px;
+    
+}
+
+.nome{
+    margin-bottom: 3%;
+    border: solid 0px;
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.NOME{
+    width: 200px;
+    margin-top: 0.5%;
+    margin-bottom: 10px;
+}
+
+.NOME::placeholder{
+    text-align: center;
+    margin: auto;
+}
+
+.INidade{
+    height: 25px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.5%;
+}
+
+.INidade::placeholder{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.CIDADE{
+    height: 25px;
+    width: 300px;
+    margin-top: 0.5%;
+    margin-bottom: 10px;
+}
+
+.CIDADE::placeholder{
+    text-align: center;
+    margin: auto;
+}
+
+.RESIDÊNCIA{
+    height: 25px;
+    width: 300px;
+    margin-top: 0.5%;
+    margin-bottom: 10px;
+}
+
+.RESIDÊNCIA::placeholder{
+    text-align: center;
+    margin: auto;
+}
+
+.moradores{
+    margin-bottom: 1%;  
+    border: solid 0px;
+    width: 990px;
+    margin-left: -12%;
+}
+
+.MORADORES{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border: solid 2px;
+    height: 25px;
+    width: 300px;
+    margin-top: 0.5%;
+    margin-bottom: 10px;
+    border: solid #0424D9 2px;
+}
+
+.perguntas{
+    text-align: center;
+    text-justify: center;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    font-size: 150%;
+}
+
+.idade{
+    margin-bottom: 1%;
+    border: solid 0px;
+    width:500px;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+
+}
+
+.cidade{
+    margin-bottom: 1%;  
+    border: solid 0px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+
+}
+
+.pQual{
+    text-align: center;
+    text-justify: center;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    border: solid 0px;
+
+}
+
+.ponto{
+    vertical-align: -46%;
+    margin-right: -2px;
+    margin-left: 15px;
+}
+
+
+.Gênero{
+    margin-bottom: 2%;
+    border: solid 0px;
+
+}
+
+.gênero{
+    margin-bottom: 0.5%; 
+    border: solid 0px;
+    vertical-align: middle;
+
+}
+
+.residência{
+    margin-bottom: 1%;  
+    border: solid 0px;
+    width: 690px;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+}
+
+.coisas1{
+    width: 300px;
+    border: solid 0px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+
+.coisas2{
+    width: 300px;
+    border: solid 0px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+
+.coisas3{
+    width: 300px;
+    border: solid 0px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 8%;
+    justify-content: center;
+    display: block;
+    margin-left: 25%;
+}
+
+.totalCoisas{
+    width: 600px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    border: solid 0px;
+    
+}
+
+.caixa{
+    vertical-align: -4px;
+    margin-right: -2px;
+    margin-left: 30px;
+}
+
+
+
+
